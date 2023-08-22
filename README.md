@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Eu sou o Rafael Souza, sou um programador Front End, atualmente estou aprendendo e criando projetos com Html, Css e iniciando o aprendizado de JavaScript e React.
 <!--
 **RafaelFSC/RafaelFSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
