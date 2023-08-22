@@ -1,6 +1,6 @@
 ### Hi there 👋
 Eu sou o Rafael Souza, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
-- Html <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- Html <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 Css e iniciando o aprendizado de JavaScript e React.
 <!--
 **RafaelFSC/RafaelFSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
